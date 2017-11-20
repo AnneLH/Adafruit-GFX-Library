@@ -1398,7 +1398,7 @@ void Adafruit_GFX::drawEllipse(int16_t x0, int16_t y0, int16_t a,int16_t b,uint1
 
 
 
->>>>>>> lh2
+
 void GFXcanvas16::fillScreen(uint16_t color) {
     if(buffer) {
         uint8_t hi = color >> 8, lo = color & 0xFF;
